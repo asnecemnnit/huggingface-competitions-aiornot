@@ -37,6 +37,10 @@
   </p>
 </div>
 
+<h3 align="center">In this competition, your task is to build a model that can identify ai generated images.</h3>
+<p align="center">
+  <img title="Image" alt="Image" src="images/comp.png">
+</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
