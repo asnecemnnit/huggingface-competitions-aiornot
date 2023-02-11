@@ -44,6 +44,7 @@
 
 <h3 align="center">My standings in the competition based on public_score.</h3>
 <p align="center">
+  <img title="aiornot_standings_title" alt="aiornot_standings_title" src="images/aiornot_standings_title.jpg">
   <img title="aiornot_standings" alt="aiornot_standings" src="images/aiornot_standings.jpg">
 </p>
 
