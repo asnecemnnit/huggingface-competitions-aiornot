@@ -42,6 +42,11 @@
   <img title="Image" alt="Image" src="images/comp.png">
 </p>
 
+<h3 align="center">My standings in the competition based on public_score.</h3>
+<p align="center">
+  <img title="aiornot_standings" alt="aiornot_standings" src="images/aiornot_standings.jpg">
+</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&color=blue
