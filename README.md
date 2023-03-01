@@ -42,10 +42,13 @@
   <img title="Image" alt="Image" src="/images/comp.png">
 </p>
 
-<h3 align="center">My standings in the competition based on public_score:</h3>
+<h3 align="center">My standings in the competition:</h3>
 <p align="center">
   <img title="aiornot_standings_title" alt="aiornot_standings_title" src="/images/aiornot_standings_title.jpg">
-  <img title="aiornot_standings" alt="aiornot_standings" src="/images/aiornot_standings.jpg">
+  <h3 align="center">My standings in public leaderboard:</h3>
+  <img title="aiornot_standings_public" alt="aiornot_standings_public" src="/images/aiornot_standings_public.jpg">
+  <h3 align="center">My standings in private leaderboard:</h3>
+  <img title="aiornot_standings_private" alt="aiornot_standings_private" src="/images/aiornot_standings_private.jpg">
 </p>
 
 
